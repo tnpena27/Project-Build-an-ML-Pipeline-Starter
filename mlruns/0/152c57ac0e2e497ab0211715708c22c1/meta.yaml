@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/152c57ac0e2e497ab0211715708c22c1/artifacts
+end_time: 1726006944555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 152c57ac0e2e497ab0211715708c22c1
+run_name: bouncy-vole-994
+run_uuid: 152c57ac0e2e497ab0211715708c22c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726006929320
+status: 4
+tags: []
+user_id: tnpena27

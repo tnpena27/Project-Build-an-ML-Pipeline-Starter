@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/57e846197f9e42b0a8380cbc7548c220/artifacts
+end_time: 1726008052879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57e846197f9e42b0a8380cbc7548c220
+run_name: aged-fish-216
+run_uuid: 57e846197f9e42b0a8380cbc7548c220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007797829
+status: 3
+tags: []
+user_id: tnpena27

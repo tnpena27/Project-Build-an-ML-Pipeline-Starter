@@ -13,9 +13,9 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 0.24.1
 mlflow_version: 2.0.1
-model_uuid: 15e5649417ef46a087aa239fd9139359
+model_uuid: 133e5871e2b14c668d58620b4cb00ba6
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
   type: dataframe
-utc_time_created: '2024-09-10 20:02:49.967574'
+utc_time_created: '2024-09-10 22:40:09.298208'

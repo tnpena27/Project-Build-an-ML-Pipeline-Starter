@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/8657e996db924710813e0d02274f79b1/artifacts
+end_time: 1726007933432
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8657e996db924710813e0d02274f79b1
+run_name: selective-finch-397
+run_uuid: 8657e996db924710813e0d02274f79b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007868395
+status: 3
+tags: []
+user_id: tnpena27

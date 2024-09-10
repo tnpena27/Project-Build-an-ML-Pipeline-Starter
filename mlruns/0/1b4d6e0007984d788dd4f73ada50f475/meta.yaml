@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/1b4d6e0007984d788dd4f73ada50f475/artifacts
+end_time: 1726005936229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b4d6e0007984d788dd4f73ada50f475
+run_name: unruly-stag-826
+run_uuid: 1b4d6e0007984d788dd4f73ada50f475
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726005933060
+status: 4
+tags: []
+user_id: tnpena27

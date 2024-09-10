@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/22684bc8cd524d9eaba58999f9ecfefe/artifacts
+end_time: 1726008070819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22684bc8cd524d9eaba58999f9ecfefe
+run_name: dashing-mare-620
+run_uuid: 22684bc8cd524d9eaba58999f9ecfefe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726008056420
+status: 4
+tags: []
+user_id: tnpena27

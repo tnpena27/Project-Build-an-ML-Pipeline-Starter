@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/6df2ad6fc449448e9cae26dd899682dc/artifacts
+end_time: 1726007992121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6df2ad6fc449448e9cae26dd899682dc
+run_name: persistent-ant-624
+run_uuid: 6df2ad6fc449448e9cae26dd899682dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007934218
+status: 3
+tags: []
+user_id: tnpena27
