@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/bca59a5dd1af4f309ed8576414d97717/artifacts
+end_time: 1725991734918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bca59a5dd1af4f309ed8576414d97717
+run_name: welcoming-skunk-533
+run_uuid: bca59a5dd1af4f309ed8576414d97717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725991664835
+status: 3
+tags: []
+user_id: tnpena27
