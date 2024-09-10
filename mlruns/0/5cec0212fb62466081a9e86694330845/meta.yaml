@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/5cec0212fb62466081a9e86694330845/artifacts
+end_time: 1725998610983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cec0212fb62466081a9e86694330845
+run_name: rumbling-wolf-669
+run_uuid: 5cec0212fb62466081a9e86694330845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725998335603
+status: 3
+tags: []
+user_id: tnpena27

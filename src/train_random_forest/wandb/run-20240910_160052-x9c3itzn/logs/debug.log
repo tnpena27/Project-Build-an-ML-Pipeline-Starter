@@ -1,0 +1,75 @@
+2024-09-10 16:00:52,950 INFO    MainThread:50262 [wandb_setup.py:_flush():69] setting env: {'run_group': 'development', 'project': 'nyc_airbnb'}
+2024-09-10 16:00:52,950 INFO    MainThread:50262 [wandb_setup.py:_flush():69] setting login settings: {}
+2024-09-10 16:00:52,950 INFO    MainThread:50262 [wandb_init.py:_log_setup():334] Logging user logs to /mnt/c/Users/tnpen/GitHub Projects/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240910_160052-x9c3itzn/logs/debug.log
+2024-09-10 16:00:52,951 INFO    MainThread:50262 [wandb_init.py:_log_setup():335] Logging internal logs to /mnt/c/Users/tnpen/GitHub Projects/Project-Build-an-ML-Pipeline-Starter-1/src/train_random_forest/wandb/run-20240910_160052-x9c3itzn/logs/debug-internal.log
+2024-09-10 16:00:52,952 INFO    MainThread:50262 [wandb_init.py:init():367] calling init triggers
+2024-09-10 16:00:52,952 INFO    MainThread:50262 [wandb_init.py:init():372] wandb.init called with sweep_config: {}
+config: {}
+2024-09-10 16:00:52,952 INFO    MainThread:50262 [wandb_init.py:init():416] starting backend
+2024-09-10 16:00:52,952 INFO    MainThread:50262 [backend.py:_multiprocessing_setup():69] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-09-10 16:00:52,961 INFO    MainThread:50262 [backend.py:ensure_launched():123] starting backend process...
+2024-09-10 16:00:52,966 INFO    MainThread:50262 [backend.py:ensure_launched():127] started backend process with pid: 50299
+2024-09-10 16:00:52,968 INFO    MainThread:50262 [wandb_init.py:init():421] backend started and connected
+2024-09-10 16:00:52,970 INFO    MainThread:50262 [wandb_init.py:init():461] updated telemetry
+2024-09-10 16:00:52,970 INFO    MainThread:50262 [wandb_init.py:init():480] communicating current version
+2024-09-10 16:00:53,616 INFO    MainThread:50262 [wandb_init.py:init():485] got version response upgrade_message: "wandb version 0.17.9 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-09-10 16:00:53,617 INFO    MainThread:50262 [wandb_init.py:init():493] communicating run to backend with 30 second timeout
+2024-09-10 16:00:53,928 INFO    MainThread:50262 [wandb_init.py:init():518] starting run threads in backend
+2024-09-10 16:00:54,040 INFO    MainThread:50262 [wandb_run.py:_console_start():1476] atexit reg
+2024-09-10 16:00:54,043 INFO    MainThread:50262 [wandb_run.py:_redirect():1339] redirect: SettingsConsole.REDIRECT
+2024-09-10 16:00:54,043 INFO    MainThread:50262 [wandb_run.py:_redirect():1344] Redirecting console.
+2024-09-10 16:00:54,044 INFO    MainThread:50262 [redirect.py:install():213] install start
+2024-09-10 16:00:54,044 INFO    MainThread:50262 [redirect.py:install():228] install stop
+2024-09-10 16:00:54,045 INFO    MainThread:50262 [redirect.py:install():213] install start
+2024-09-10 16:00:54,045 INFO    MainThread:50262 [redirect.py:install():228] install stop
+2024-09-10 16:00:54,045 INFO    MainThread:50262 [wandb_run.py:_redirect():1390] Redirects installed.
+2024-09-10 16:00:54,045 INFO    MainThread:50262 [wandb_init.py:init():542] run started, returning control to user process
+2024-09-10 16:00:54,048 INFO    MainThread:50262 [wandb_run.py:_config_callback():733] config_cb None None {'trainval_artifact': 'trainval_data.csv:latest', 'val_size': 0.2, 'random_seed': 42, 'stratify_by': 'neighbourhood_group', 'rf_config': '/mnt/c/Users/tnpen/GitHub Projects/Project-Build-an-ML-Pipeline-Starter-1/multirun/2024-09-10/15-59-00/1/rf_config.json', 'max_tfidf_features': 5, 'output_artifact': 'random_forest_export'}
+2024-09-10 16:00:54,054 INFO    MainThread:50262 [wandb_run.py:_config_callback():733] config_cb None None {'n_estimators': 200, 'max_depth': 10, 'min_samples_split': 4, 'min_samples_leaf': 3, 'n_jobs': -1, 'criterion': 'mae', 'max_features': 0.5, 'oob_score': True}
+2024-09-10 16:01:04,483 INFO    MainThread:50262 [wandb_run.py:_atexit_cleanup():1446] got exitcode: 0
+2024-09-10 16:01:04,484 INFO    MainThread:50262 [wandb_run.py:_restore():1418] restore
+2024-09-10 16:01:04,484 INFO    MainThread:50262 [redirect.py:uninstall():232] uninstall start
+2024-09-10 16:01:04,485 INFO    MainThread:50262 [redirect.py:_stop():287] _stop: stdout
+2024-09-10 16:01:04,485 INFO    MainThread:50262 [redirect.py:_stop():293] _stop closed: stdout
+2024-09-10 16:01:04,485 INFO    stdout    :50262 [redirect.py:_pipe_relay():129] relay done saw last write: stdout
+2024-09-10 16:01:04,485 INFO    stdout    :50262 [redirect.py:_pipe_relay():145] relay done done: stdout
+2024-09-10 16:01:04,485 INFO    MainThread:50262 [redirect.py:_stop():299] _stop joined: stdout
+2024-09-10 16:01:04,486 INFO    MainThread:50262 [redirect.py:_stop():301] _stop rd closed: stdout
+2024-09-10 16:01:04,486 INFO    MainThread:50262 [redirect.py:uninstall():236] uninstall done
+2024-09-10 16:01:04,486 INFO    MainThread:50262 [redirect.py:uninstall():232] uninstall start
+2024-09-10 16:01:04,486 INFO    MainThread:50262 [redirect.py:_stop():287] _stop: stderr
+2024-09-10 16:01:04,487 INFO    MainThread:50262 [redirect.py:_stop():293] _stop closed: stderr
+2024-09-10 16:01:04,487 INFO    stderr    :50262 [redirect.py:_pipe_relay():129] relay done saw last write: stderr
+2024-09-10 16:01:04,487 INFO    stderr    :50262 [redirect.py:_pipe_relay():145] relay done done: stderr
+2024-09-10 16:01:04,487 INFO    MainThread:50262 [redirect.py:_stop():299] _stop joined: stderr
+2024-09-10 16:01:04,487 INFO    MainThread:50262 [redirect.py:_stop():301] _stop rd closed: stderr
+2024-09-10 16:01:04,488 INFO    MainThread:50262 [redirect.py:uninstall():236] uninstall done
+2024-09-10 16:01:39,680 INFO    MainThread:50262 [wandb_run.py:_wait_for_finish():1568] got exit ret: file_counts {
+  wandb_count: 1
+  media_count: 1
+  artifact_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 87577597
+  total_bytes: 87610900
+  deduped_bytes: 1497
+}
+
+2024-09-10 16:01:41,685 INFO    MainThread:50262 [wandb_run.py:_wait_for_finish():1568] got exit ret: done: true
+exit_result {
+}
+file_counts {
+  wandb_count: 5
+  media_count: 1
+  artifact_count: 6
+}
+pusher_stats {
+  uploaded_bytes: 87615248
+  total_bytes: 87615248
+  deduped_bytes: 1497
+}
+
+2024-09-10 16:01:42,837 INFO    MainThread:50262 [wandb_run.py:_show_summary():1723] rendering summary
+2024-09-10 16:01:42,838 INFO    MainThread:50262 [wandb_run.py:_show_history():1761] rendering history
+2024-09-10 16:01:42,839 INFO    MainThread:50262 [wandb_run.py:_show_files():1790] logging synced files

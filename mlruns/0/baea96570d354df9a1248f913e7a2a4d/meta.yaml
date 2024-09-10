@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/baea96570d354df9a1248f913e7a2a4d/artifacts
+end_time: 1725998610528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: baea96570d354df9a1248f913e7a2a4d
+run_name: amusing-quail-840
+run_uuid: baea96570d354df9a1248f913e7a2a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725998559784
+status: 3
+tags: []
+user_id: tnpena27
