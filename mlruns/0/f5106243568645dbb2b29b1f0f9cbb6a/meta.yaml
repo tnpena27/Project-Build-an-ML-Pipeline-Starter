@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/f5106243568645dbb2b29b1f0f9cbb6a/artifacts
+end_time: 1726001385765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5106243568645dbb2b29b1f0f9cbb6a
+run_name: unruly-trout-692
+run_uuid: f5106243568645dbb2b29b1f0f9cbb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726001382441
+status: 4
+tags: []
+user_id: tnpena27

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/5d4bc85f97bd4f20aff9861db90ad9f2/artifacts
+end_time: 1725999786433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d4bc85f97bd4f20aff9861db90ad9f2
+run_name: powerful-fowl-971
+run_uuid: 5d4bc85f97bd4f20aff9861db90ad9f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725999782316
+status: 4
+tags: []
+user_id: tnpena27

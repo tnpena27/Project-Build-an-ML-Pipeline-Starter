@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/31a858754d524eb88355fe63b42f8f3c/artifacts
+end_time: 1726001386325
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31a858754d524eb88355fe63b42f8f3c
+run_name: glamorous-bat-570
+run_uuid: 31a858754d524eb88355fe63b42f8f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726001376307
+status: 4
+tags: []
+user_id: tnpena27

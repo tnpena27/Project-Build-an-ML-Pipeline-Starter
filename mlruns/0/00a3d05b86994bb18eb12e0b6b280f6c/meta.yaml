@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/00a3d05b86994bb18eb12e0b6b280f6c/artifacts
+end_time: 1726001269183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00a3d05b86994bb18eb12e0b6b280f6c
+run_name: learned-rook-657
+run_uuid: 00a3d05b86994bb18eb12e0b6b280f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726001264995
+status: 4
+tags: []
+user_id: tnpena27

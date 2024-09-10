@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/fe21fa660ea24492b1092e10d3028cd3/artifacts
+end_time: 1726000200444
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe21fa660ea24492b1092e10d3028cd3
+run_name: efficient-worm-531
+run_uuid: fe21fa660ea24492b1092e10d3028cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726000190881
+status: 4
+tags: []
+user_id: tnpena27

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/135f90077bd4432387c7353c93a7c574/artifacts
+end_time: 1725999787012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 135f90077bd4432387c7353c93a7c574
+run_name: clean-sponge-651
+run_uuid: 135f90077bd4432387c7353c93a7c574
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725999775845
+status: 4
+tags: []
+user_id: tnpena27
