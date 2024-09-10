@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/0694eabf3b7d4e9886dad4c3efe4207b/artifacts
+end_time: 1725993772725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0694eabf3b7d4e9886dad4c3efe4207b
+run_name: rogue-quail-731
+run_uuid: 0694eabf3b7d4e9886dad4c3efe4207b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725993599517
+status: 4
+tags: []
+user_id: tnpena27

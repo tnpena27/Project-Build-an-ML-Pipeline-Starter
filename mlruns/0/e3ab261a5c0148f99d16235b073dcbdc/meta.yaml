@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/e3ab261a5c0148f99d16235b073dcbdc/artifacts
+end_time: 1725993690929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3ab261a5c0148f99d16235b073dcbdc
+run_name: debonair-calf-457
+run_uuid: e3ab261a5c0148f99d16235b073dcbdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725993664741
+status: 4
+tags: []
+user_id: tnpena27

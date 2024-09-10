@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/c037e84893d4402785e0c58de9776d24/artifacts
+end_time: 1725992442609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c037e84893d4402785e0c58de9776d24
+run_name: upbeat-cub-675
+run_uuid: c037e84893d4402785e0c58de9776d24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725992412942
+status: 3
+tags: []
+user_id: tnpena27

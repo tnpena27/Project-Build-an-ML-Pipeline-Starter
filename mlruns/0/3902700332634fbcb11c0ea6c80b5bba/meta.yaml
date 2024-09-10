@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/3902700332634fbcb11c0ea6c80b5bba/artifacts
+end_time: 1725993408666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3902700332634fbcb11c0ea6c80b5bba
+run_name: polite-bass-52
+run_uuid: 3902700332634fbcb11c0ea6c80b5bba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725993390563
+status: 4
+tags: []
+user_id: tnpena27

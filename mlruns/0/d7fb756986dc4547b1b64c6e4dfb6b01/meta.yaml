@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/d7fb756986dc4547b1b64c6e4dfb6b01/artifacts
+end_time: 1725994823356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7fb756986dc4547b1b64c6e4dfb6b01
+run_name: omniscient-stoat-837
+run_uuid: d7fb756986dc4547b1b64c6e4dfb6b01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725994722799
+status: 4
+tags: []
+user_id: tnpena27

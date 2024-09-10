@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/60247679ec14473ab5bc84a5ce5bef81/artifacts
+end_time: 1725994459762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60247679ec14473ab5bc84a5ce5bef81
+run_name: tasteful-hound-581
+run_uuid: 60247679ec14473ab5bc84a5ce5bef81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725994430227
+status: 4
+tags: []
+user_id: tnpena27

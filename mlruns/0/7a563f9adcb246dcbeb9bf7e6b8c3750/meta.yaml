@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/7a563f9adcb246dcbeb9bf7e6b8c3750/artifacts
+end_time: 1725993449113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a563f9adcb246dcbeb9bf7e6b8c3750
+run_name: brawny-ant-911
+run_uuid: 7a563f9adcb246dcbeb9bf7e6b8c3750
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725993311879
+status: 4
+tags: []
+user_id: tnpena27

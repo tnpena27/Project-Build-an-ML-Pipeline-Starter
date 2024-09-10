@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/f1c249c6d7a64bf48b37d28bbd86bb32/artifacts
+end_time: 1725996296244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1c249c6d7a64bf48b37d28bbd86bb32
+run_name: bald-goose-23
+run_uuid: f1c249c6d7a64bf48b37d28bbd86bb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725996291248
+status: 4
+tags: []
+user_id: tnpena27

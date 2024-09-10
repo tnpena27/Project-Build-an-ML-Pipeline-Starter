@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/d35f0d2001d94edd8e98505d155b2ea8/artifacts
+end_time: 1725994296412
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d35f0d2001d94edd8e98505d155b2ea8
+run_name: dazzling-ox-813
+run_uuid: d35f0d2001d94edd8e98505d155b2ea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725994269751
+status: 4
+tags: []
+user_id: tnpena27

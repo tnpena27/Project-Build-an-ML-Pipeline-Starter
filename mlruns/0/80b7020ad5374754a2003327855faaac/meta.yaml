@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/80b7020ad5374754a2003327855faaac/artifacts
+end_time: 1725993771938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80b7020ad5374754a2003327855faaac
+run_name: vaunted-goat-633
+run_uuid: 80b7020ad5374754a2003327855faaac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725993691690
+status: 4
+tags: []
+user_id: tnpena27

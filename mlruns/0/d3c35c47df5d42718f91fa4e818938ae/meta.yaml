@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/d3c35c47df5d42718f91fa4e818938ae/artifacts
+end_time: 1725994269092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3c35c47df5d42718f91fa4e818938ae
+run_name: powerful-toad-565
+run_uuid: d3c35c47df5d42718f91fa4e818938ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725994242406
+status: 4
+tags: []
+user_id: tnpena27

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/816ebd663db2449aa20e48c73b1a5448/artifacts
+end_time: 1725994548271
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 816ebd663db2449aa20e48c73b1a5448
+run_name: rare-deer-271
+run_uuid: 816ebd663db2449aa20e48c73b1a5448
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725994517449
+status: 4
+tags: []
+user_id: tnpena27

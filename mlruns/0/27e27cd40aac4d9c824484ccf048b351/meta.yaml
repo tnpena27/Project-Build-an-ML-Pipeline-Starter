@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/27e27cd40aac4d9c824484ccf048b351/artifacts
+end_time: 1725994822617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27e27cd40aac4d9c824484ccf048b351
+run_name: nosy-tern-622
+run_uuid: 27e27cd40aac4d9c824484ccf048b351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725994818140
+status: 4
+tags: []
+user_id: tnpena27
