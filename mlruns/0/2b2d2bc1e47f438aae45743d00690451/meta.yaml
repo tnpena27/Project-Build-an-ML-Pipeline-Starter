@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/2b2d2bc1e47f438aae45743d00690451/artifacts
+end_time: 1726005050101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b2d2bc1e47f438aae45743d00690451
+run_name: sassy-dog-531
+run_uuid: 2b2d2bc1e47f438aae45743d00690451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726005029071
+status: 4
+tags: []
+user_id: tnpena27

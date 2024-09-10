@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/3f2be519f769411f8ab77462d4fdb65c/artifacts
+end_time: 1726003805656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f2be519f769411f8ab77462d4fdb65c
+run_name: sedate-stoat-229
+run_uuid: 3f2be519f769411f8ab77462d4fdb65c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726003790931
+status: 4
+tags: []
+user_id: tnpena27

@@ -18,4 +18,4 @@ dependencies:
       - hydra-joblib-launcher==1.1.2
       - databricks-cli 
       - git+https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git#egg=wandb-utils&subdirectory=components
-      name: basic_cleaning 
+      

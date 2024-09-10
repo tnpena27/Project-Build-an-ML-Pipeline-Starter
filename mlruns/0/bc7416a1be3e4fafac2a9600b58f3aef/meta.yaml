@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/bc7416a1be3e4fafac2a9600b58f3aef/artifacts
+end_time: 1726002931186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc7416a1be3e4fafac2a9600b58f3aef
+run_name: casual-hound-453
+run_uuid: bc7416a1be3e4fafac2a9600b58f3aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726002925439
+status: 4
+tags: []
+user_id: tnpena27

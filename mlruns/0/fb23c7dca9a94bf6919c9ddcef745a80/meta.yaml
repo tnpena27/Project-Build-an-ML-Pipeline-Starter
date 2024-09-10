@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/fb23c7dca9a94bf6919c9ddcef745a80/artifacts
+end_time: 1726002772920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb23c7dca9a94bf6919c9ddcef745a80
+run_name: serious-sheep-842
+run_uuid: fb23c7dca9a94bf6919c9ddcef745a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726002767654
+status: 4
+tags: []
+user_id: tnpena27

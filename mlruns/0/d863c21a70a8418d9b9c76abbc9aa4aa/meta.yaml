@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/d863c21a70a8418d9b9c76abbc9aa4aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d863c21a70a8418d9b9c76abbc9aa4aa
+run_name: unleashed-shad-463
+run_uuid: d863c21a70a8418d9b9c76abbc9aa4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726001843192
+status: 1
+tags: []
+user_id: tnpena27

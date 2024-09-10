@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: wandb-utils
+Version: 0.1
+Summary: Utilities for interacting with Weights and Biases and mlflow
+Classifier: Programming Language :: Python :: 3
+Classifier: Development Status :: 4 - Beta
+Requires-Dist: mlflow
+Requires-Dist: wandb

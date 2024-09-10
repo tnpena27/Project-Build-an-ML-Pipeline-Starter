@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/tnpen/GitHub%20Projects/Project-Build-an-ML-Pipeline-Starter-1/mlruns/0/9b6224c5fb1f44bb9bbfc4f82d3eaf39/artifacts
+end_time: 1726002773556
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b6224c5fb1f44bb9bbfc4f82d3eaf39
+run_name: selective-perch-695
+run_uuid: 9b6224c5fb1f44bb9bbfc4f82d3eaf39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726002683528
+status: 4
+tags: []
+user_id: tnpena27
